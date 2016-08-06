@@ -1,0 +1,2 @@
+# LIBJS
+Library for javascript
